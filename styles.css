@@ -1,0 +1,40 @@
+.column {
+    float: right;
+    width: 33%;
+}
+
+  body{
+background-repeat: no-repeat;
+background-color: lightseagreen;
+  }
+  
+  nav ul li{
+      display: inline;
+      float: right;
+      margin-right: 30px;
+      margin-top: 0 px;
+  }
+
+  form{
+      float: left;
+  }
+nav ul li a{
+    background-color:silver
+}
+a:hover{
+background-color: dodgerblue;
+}
+a:active{
+    background-color: rgb(240, 229, 226);
+}
+content{
+    text-align: center;
+    color: bisque;
+}
+ul li{
+    color: bisque;
+    text-indent: 12px;
+}
+.column{
+    color: bisque;
+}
